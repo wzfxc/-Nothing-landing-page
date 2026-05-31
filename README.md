@@ -5,7 +5,7 @@ This is a modern, responsive landing page for the "Nothing" tech brand, showcasi
 ## Live Preview
 
 You can check out the live version of the project here:
-[DEMO LINK](https://wzfxc.github.io/-nothing-landing-page/)
+[DEMO LINK](https://wzfxc.github.io/-Nothing-landing-page/)
 
 ---
 
